@@ -1,6 +1,9 @@
 package objetos;
 
-public class ContaPoupanca implements Comparable<ContaPoupanca> {
+import utils.ClasseNaoExisteException;
+import utils.SaldoInsuficienteException;
+
+public class ContaPoupanca extends Conta implements Comparable<Conta> {
 
 	private Integer numero;
 	private String nome;
@@ -21,7 +24,20 @@ public class ContaPoupanca implements Comparable<ContaPoupanca> {
 		this.nome = string;
 	}
 
-	 public int compareTo(ContaPoupanca o) {
+	
+	 @Override
+	public void saca(int valor) throws SaldoInsuficienteException  {
+		super.saca(valor);
+			try {
+				if (valor > 100)
+				throw new ClasseNaoExisteException("Classe não existe");
+			} catch (ClasseNaoExisteException e) {
+				e.printStackTrace();
+			}
+		}
+
+
+	public int compareTo(ContaPoupanca o) {
 	
 	 if( Integer.compare(this.numero, o.numero) < 0 && (String.CASE_INSENSITIVE_ORDER.compare(this.nome, o.nome) < 0)){
 		 return -1;
