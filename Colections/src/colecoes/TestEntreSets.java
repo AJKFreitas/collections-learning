@@ -1,7 +1,8 @@
 package colecoes;
 
 import java.util.HashSet;
-import java.util.LinkedHashSet;
+import java.util.Hashtable;
+import java.util.Map;
 import java.util.Random;
 import java.util.TreeSet;
 
@@ -14,14 +15,15 @@ public class TestEntreSets {
 		 
 		HashSet<Conta> hashSet = new HashSet<Conta>();
 		TreeSet<Conta> treeSet = new TreeSet<Conta>();
-		LinkedHashSet<Conta> linkedSet = new LinkedHashSet<Conta>();
+		Map<String,Conta> hashtable = new Hashtable<String,Conta>();
 	 
 		// start time
+		
 		long startTime = System.nanoTime();
 	 
 		for (int i = 0; i < 1000; i++) {
 			int x = r.nextInt(1000 - 10) + 10;
-			hashSet.add(new Conta(x));
+			hashSet.add(new Conta(x,i,"Banco "+i));
 		}
 		// end time
 		long endTime = System.nanoTime();
@@ -36,7 +38,7 @@ public class TestEntreSets {
 	 
 		for (int i = 0; i < 1000; i++) {
 			int x = r.nextInt(1000 - 10) + 10;
-			treeSet.add(new Conta(x));
+			treeSet.add(new Conta(x,i,"Banco "+i));
 		}
 		// end time
 		endTime = System.nanoTime();
@@ -51,12 +53,12 @@ public class TestEntreSets {
 	 
 		for (int i = 0; i < 1000; i++) {
 			int x = r.nextInt(1000 - 10) + 10;
-			linkedSet.add(new Conta(x));
+			hashtable.put("Banco "+i,new Conta(x,i,"Banco "+i));
 		}
 		// end time
 		endTime = System.nanoTime();
 		duration = endTime - startTime;
-		System.out.println("LinkedHashSet: " + duration);
+		System.out.println("hashtable:    " + duration);
 	 
 	}
 }

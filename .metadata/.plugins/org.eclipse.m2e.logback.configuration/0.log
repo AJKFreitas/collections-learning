@@ -1,0 +1,89 @@
+2017-07-17 09:23:57,023 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-07-17 09:24:46,756 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Colections:Colections:0.0.1 @ C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\pom.xml.
+2017-07-17 09:24:51,179 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Colections/src
+2017-07-17 09:24:51,181 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Colections/src/test/java because it overlaps with /Colections/src
+2017-07-17 09:24:51,375 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 15 sec
+2017-07-17 09:24:53,823 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-17 09:24:53,854 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\main\resources
+2017-07-17 09:24:53,858 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-17 09:24:53,867 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\test\resources
+2017-07-17 09:28:13,610 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-17 09:28:13,620 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\main\resources
+2017-07-17 09:28:13,622 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-17 09:28:13,628 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\test\resources
+2017-07-17 09:31:03,117 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-17 09:31:03,126 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\main\resources
+2017-07-17 09:31:03,129 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-17 09:31:03,145 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\test\resources
+2017-07-17 09:44:03,209 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-17 09:44:03,219 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\main\resources
+2017-07-17 09:44:03,221 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-17 09:44:03,236 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\test\resources
+2017-07-17 09:48:50,186 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-17 09:48:50,194 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\main\resources
+2017-07-17 09:48:50,203 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-17 09:48:50,218 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\test\resources
+2017-07-17 10:02:29,346 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-17 10:02:29,385 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\main\resources
+2017-07-17 10:02:29,387 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-17 10:02:29,402 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\test\resources
+2017-07-17 10:02:58,330 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-17 10:02:58,362 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\main\resources
+2017-07-17 10:02:58,362 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-17 10:02:58,377 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\test\resources
+2017-07-17 10:03:16,351 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-17 10:03:16,360 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\main\resources
+2017-07-17 10:03:16,362 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-17 10:03:16,378 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\test\resources
+2017-07-17 10:03:59,111 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-17 10:03:59,127 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\main\resources
+2017-07-17 10:03:59,142 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-17 10:03:59,158 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\test\resources
+2017-07-18 10:34:25,282 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-07-18 10:34:29,100 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Colections:Colections:0.0.1 @ C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\pom.xml.
+2017-07-18 10:34:29,100 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Colections:Colections:0.0.1 @ C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\pom.xml.
+2017-07-18 10:34:34,357 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-18 10:34:34,386 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\main\resources
+2017-07-18 10:34:34,394 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-18 10:34:34,476 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\test\resources
+2017-07-18 10:34:35,737 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Colections:Colections:0.0.1 @ C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\pom.xml.
+2017-07-18 10:34:36,459 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-18 10:34:36,469 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\main\resources
+2017-07-18 10:34:36,473 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-18 10:34:36,500 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\test\resources
+2017-07-18 10:37:02,991 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-18 10:37:03,006 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\main\resources
+2017-07-18 10:37:03,008 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-18 10:37:03,020 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\test\resources
+2017-07-18 10:37:21,360 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-18 10:37:21,367 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\main\resources
+2017-07-18 10:37:21,369 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-18 10:37:21,377 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\test\resources
+2017-07-18 10:38:05,245 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-18 10:38:05,259 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\main\resources
+2017-07-18 10:38:05,265 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-18 10:38:05,273 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\test\resources
+2017-07-18 10:39:05,744 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-18 10:39:05,753 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\main\resources
+2017-07-18 10:39:05,755 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-18 10:39:05,763 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\test\resources
+2017-07-18 10:39:20,910 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-18 10:39:20,926 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\main\resources
+2017-07-18 10:39:20,937 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-18 10:39:20,946 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\test\resources
+2017-07-18 10:40:25,523 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-18 10:40:25,532 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\main\resources
+2017-07-18 10:40:25,535 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-18 10:40:25,544 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\test\resources
+2017-07-18 10:41:24,183 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-18 10:41:24,196 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\main\resources
+2017-07-18 10:41:24,204 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-18 10:41:24,211 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\test\resources
+2017-07-18 10:43:38,643 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-18 10:43:38,652 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\main\resources
+2017-07-18 10:43:38,653 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-18 10:43:38,661 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\test\resources
+2017-07-18 10:44:29,950 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-18 10:44:29,962 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\main\resources
+2017-07-18 10:44:29,970 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-18 10:44:29,977 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aasantos6\Desktop\Nova pasta (2)\collections-learning\Colections\src\test\resources
